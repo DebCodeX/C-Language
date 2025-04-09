@@ -1,5 +1,5 @@
 # CodeVault
 
 ## Index
--> [Pattern Printing](./PatternPrinting/README.md)
+-> [Pattern Printing](./PatternPrinting)
 # Just Click on your desired file.
